@@ -2,7 +2,4 @@ fastapi
 uvicorn
 sqlalchemy
 telethon
-smtplib
 python-dotenv
-flask
-gunicorn
