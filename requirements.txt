@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+telethon
+smtplib
+python-dotenv
